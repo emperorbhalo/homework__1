@@ -1,0 +1,3 @@
+C:/Users/emperorbhalo/Documents/Git hub milk/homework -1/cmake-build-debug/CMakeFiles/homework__1.dir
+C:/Users/emperorbhalo/Documents/Git hub milk/homework -1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/emperorbhalo/Documents/Git hub milk/homework -1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
